@@ -1,0 +1,29 @@
+html{
+    background-color: black;
+}
+
+img{
+    padding: 5px;
+    border: 10px double white;
+    width: 800px;
+    height: 450px;
+}
+
+h1{
+    font-size: 50px;
+    font-weight: bold;
+    text-transform: uppercase;
+    margin: 20px;
+}
+
+p{
+    font-size: 25px;
+    margin: 0;
+}
+
+#kuch_bhi{
+    color: white;
+    text-align: center;
+    font-family: "Caveat", serif;
+    margin-top: 60px;
+}
